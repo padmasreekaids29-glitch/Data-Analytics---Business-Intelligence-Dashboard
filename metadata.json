@@ -1,0 +1,6 @@
+{
+  "name": "INSIGHT PRO – Business Intelligence Platform",
+  "description": "Enterprise data analytics and business intelligence platform with PostgreSQL persistence, CSV/Excel ingestion, interactive Chart.js visualizations, dynamic filtering, RBAC user management, and PDF/CSV reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
